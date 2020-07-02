@@ -2,7 +2,7 @@
 //  EmptyView.swift
 //  WTFUserInterface
 //
-//  Created by NP2 on 3/14/20.
+//  Created by shndrs on 3/14/20.
 //  Copyright © 2020 shndrs. All rights reserved.
 //
 

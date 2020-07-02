@@ -2,7 +2,7 @@
 //  CustomHUD.swift
 //  WTFUserInterface
 //
-//  Created by NP2 on 12/30/19.
+//  Created by shndrs on 12/30/19.
 //  Copyright © 2019 shndrs. All rights reserved.
 //
 

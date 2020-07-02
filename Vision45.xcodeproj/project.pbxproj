@@ -116,6 +116,7 @@
 			children = (
 				A970F2AA24AB1E9500A8FD77 /* Resource */,
 				A970F2B224AB1F8100A8FD77 /* Util */,
+				A970F2DB24AB229E00A8FD77 /* Module */,
 				7236322424AB18BF00BD4375 /* AppDelegate.swift */,
 				7236322624AB18BF00BD4375 /* SceneDelegate.swift */,
 				7236322824AB18BF00BD4375 /* ViewController.swift */,
@@ -208,6 +209,13 @@
 				A970F2D924AB21C300A8FD77 /* UIView.swift */,
 			);
 			path = Extension;
+			sourceTree = "<group>";
+		};
+		A970F2DB24AB229E00A8FD77 /* Module */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Module;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

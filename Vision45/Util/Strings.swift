@@ -2,7 +2,7 @@
 //  Strings.swift
 //  WTFUserInterface
 //
-//  Created by NP2 on 10/12/19.
+//  Created by shndrs on 10/12/19.
 //  Copyright © 2019 shndrs. All rights reserved.
 //
 
