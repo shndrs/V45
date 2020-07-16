@@ -127,6 +127,13 @@
 			path = Vision45;
 			sourceTree = "<group>";
 		};
+		7263A5BD24C0861800FCFD21 /* Register */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Register;
+			sourceTree = "<group>";
+		};
 		8A28F174F61E517B822EAF04 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -214,6 +221,7 @@
 		A970F2DB24AB229E00A8FD77 /* Module */ = {
 			isa = PBXGroup;
 			children = (
+				7263A5BD24C0861800FCFD21 /* Register */,
 			);
 			path = Module;
 			sourceTree = "<group>";
